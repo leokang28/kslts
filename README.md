@@ -13,6 +13,13 @@
 ## 说明
 获取大于指定版本的node lts版本，未指定则获取全部。
 
+## 安装
+
+    yarn global add kslts
+    或者
+    npm i kslts -g
 ## 用法
-kslts [major]
-kslts --version=[major]
+  kslts [major]
+
+
+  kslts --version=[major]
