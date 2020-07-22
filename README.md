@@ -10,3 +10,9 @@
     项目技术栈说明:
       Node.js + axios「学习  HTTP 网络请求收发」
     
+## 说明
+获取大于指定版本的node lts版本，未指定则获取全部。
+
+## 用法
+kslts [major]
+kslts --version=[major]
